@@ -1,0 +1,171 @@
+*{
+   font-family: 'Times New Roman', Times, serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+.header{
+  margin-top: 10px;
+}
+.logo{
+  height: auto;
+  width: 80px;
+  background-color: #ddd;
+  
+}
+.logo img{
+  max-width: 100%;
+}
+.header ul{
+  margin-top: 40px;
+}
+.header li{
+  display: inline-block;
+  list-style: none;
+}
+.header li a{
+  color: white;
+  font-size: 18px;
+  border-left: 1px solid white;
+  background-color: #34A0D3 ;
+  padding: 10px 20px;
+}
+
+
+
+
+
+.slider{
+  height: 500px;
+  background-image: url("images (4).jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  
+}
+.slider h2{
+  background-color: #505A5FBA;
+  padding: 10px 20px;
+  display: inline-block;
+  border-radius: 10px;
+  margin-top: 100px;
+  margin-bottom: 10px;
+  
+  
+}
+.slider h3{
+  background-color: #2FC8BDBA;
+  padding: 10px 50px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.center{
+  text-align: center;
+  height: 150px;
+  background-color: #EBEDFF;
+  
+}
+.center b{
+  display: inline-block;
+  margin-top: 20px;
+}
+.center p{
+  display: inline-block;
+  font-size: 13px;
+  margin: 10px 100px;
+  
+}
+
+.Item{
+  border: 1px solid #ddd;
+  height: 250px;
+  text-align: center;
+  padding: 10px 10px;
+  font-size: 15px;
+}
+.Item span{
+  padding: 5px 15px;
+  font-size: 30px;
+  background-color: #49B7F2;
+  display: inline-block;
+  color: white;
+  border-radius: 25px 0 25px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.Item h3{
+  font-size: 23px;
+ 
+}
+.Item p{
+  margin: 8px 10px;
+}
+
+.services{
+  margin: 30px 0;
+}
+.content{
+  height: 250px;
+  background-color: #F3F4FF;
+}
+.about{
+  border: 1px solid #ddd;
+  height: 250px;
+  
+  
+}
+.about img {
+  height: 200px;
+  width: auto;
+  float: left;
+  margin: 20px auto;
+}
+.about p{
+  height: 100px;
+  float: right;
+  max-width: 300px;
+  margin-top: 20px;
+}
+.notice{
+  height: 250px;
+  border: 1px solid #ddd;
+  display: inline-block;
+}
+.notice b{
+  font-size: 14px;
+  margin-top: 10px;
+  margin-left: 8px;
+  display: inline-block
+}
+.notice ul{
+  margin-right: 10px;
+  display: inline-block;
+}
+.notice ul li{
+  font-size: 13px;
+}
+
+
+.footer{
+  background-color: black;
+  color: white;
+  height: 50px;
+  line-height: 50px;
+}
+
+
+.copyright{
+  
+}
+.Social-Icon{}
+.Social-Icon ul{
+  text-align: right;
+}
+.Social-Icon ul li{
+  display: inline-block;
+  list-style: none;
+}
+.Social-Icon ul li a{}
+
+
